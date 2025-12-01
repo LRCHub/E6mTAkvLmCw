@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "絹 - 「なつのおと」MUSIC VIDEO",
+  "base_artist": "絹 | SOWA",
+  "createdAt": "2025-12-01T12:59:57.951488Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "絹の靴下",
+      "artist": "夏木 マリ",
+      "has_synced": false,
+      "path": "select/pl_01_絹の靴下_夏木_マリ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "絹の娘",
+      "artist": "夏木 マリ",
+      "has_synced": false,
+      "path": "select/pl_02_絹の娘_夏木_マリ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "絹の靴下",
+      "artist": "夏木 マリ",
+      "has_synced": false,
+      "path": "select/pl_03_絹の靴下_夏木_マリ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "絹ずれ ～島言葉～",
+      "artist": "夏木 マリ",
+      "has_synced": false,
+      "path": "select/pl_04_絹ずれ_~島言葉~_夏木_マリ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "絹ずれ",
+      "artist": "夏木 マリ",
+      "has_synced": false,
+      "path": "select/pl_05_絹ずれ_夏木_マリ.txt"
+    }
+  ]
+}
